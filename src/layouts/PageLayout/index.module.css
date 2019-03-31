@@ -1,0 +1,10 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 5px;
+  max-width: 980px;
+}
+
+.header {
+  margin: 20px 0;
+  text-align: center;
+}

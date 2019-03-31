@@ -1,0 +1,9 @@
+.wrapper {
+  display: block;
+  width: 100%;
+}
+
+.wrapper span {
+  display: inline-block;
+  width: 30%;
+}

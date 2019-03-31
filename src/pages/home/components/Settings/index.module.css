@@ -1,0 +1,11 @@
+.label {
+  margin-right: 10px;
+}
+
+.content {
+  display: flex;
+}
+
+.updateTime {
+  margin-left: auto;
+}

@@ -1,0 +1,15 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  padding-right: 64px;
+}
+
+.content span {
+  display: inline-block;
+  width: 30%;
+  font-weight: 600;
+}

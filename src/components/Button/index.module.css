@@ -1,0 +1,31 @@
+.button {
+  color: #fff;
+  font-weight: 600;
+  padding: 7px 10px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  background-color: #33c536;
+  cursor: pointer;
+}
+
+.button.submit {
+  background: #5d8ffc;
+  color: #fff;
+  border: 1px solid #5d8ffc;
+  border-radius: 5px;
+  padding: 15px;
+  display: block;
+  width: 100%;
+  transition: 0.3s;
+}
+
+.button.submit:hover {
+  background: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+}
+
+.button.loading {
+  cursor: wait;
+}

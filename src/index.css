@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a, a:link, a:visited, a:hover {
+  color: blue;
+}
+
 body {
   margin: 0;
   padding: 0;
